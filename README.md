@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Alina 👋 welcome to my GitHub profile!
 
-<!--
-**Mees100/Mees100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a junior Front-End developer and I'm looking for opprtunities to further develop my skills
 
-Here are some ideas to get you started:
+# My experience and knowledge🎓:
+- JavaScript, React (inclusief hooks & props, fetch), Typescript, HTML, CSS, different libraries, bundlers (vite), npm, terminal(git), react router, 
+- Web Design, responsive design, accesbility
+  
+# My projects:
+🌐 [My second project - Clock App (Time zone converter] (https://github.com/Mees100/Mees100version1.github.io)
+💻 [My first project - My own website] (https://github.com/Mees100/Mees100version1.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
