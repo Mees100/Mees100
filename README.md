@@ -8,7 +8,7 @@
   
 ## My projects:
 - 🌐 <a href="https://github.com/Mees100/clock-app">My second project - Clock App (Time zone converter)</a>
-- 💻 <a href="https://github.com/Mees100/Mees100version1.github.io">My first project - My own website</a>
+- 💻 <a href="https://github.com/Mees100/Mees100version1.github.io">My first project - My own website</a> I see many many points that i want to improve later
 
 
 
