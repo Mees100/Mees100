@@ -1,6 +1,6 @@
 # Hi, I'm Alina 👋 welcome to my GitHub profile!
 
- I'm a junior Front-End developer and I'm looking for opprtunities to further develop my skills
+ I'm a junior Front-End developer, looking for opprtunities
 
 ## My experience and knowledge🎓:
 - JavaScript, React (inclusief hooks & props, fetch), Typescript, HTML, CSS, different libraries, bundlers (vite), npm, terminal(git), react router, 
