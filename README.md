@@ -9,7 +9,7 @@
 ## My projects:
 - 🌐 [My second project - Clock App (Time zone converter] (https://github.com/Mees100/Mees100version1.github.io) 
 - 💻 [My first project - My own website] (https://github.com/Mees100/Mees100version1.github.io)
-- <a href="https://github.com/Mees100/Mees100version1.github.io" target="_blank>My first project - My own website</a>
+- <a href="https://github.com/Mees100/Mees100version1.github.io">My first project - My own website</a>
 
 
 
