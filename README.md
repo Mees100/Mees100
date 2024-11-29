@@ -7,7 +7,7 @@
 - Web Design, responsive design, accesbility
   
 ## My projects:
-- 🌐 [My second project - Clock App (Time zone converter] (https://github.com/Mees100/Mees100version1.github.io)
+- 🌐 [My second project - Clock App (Time zone converter] (https://github.com/Mees100/Mees100version1.github.io "example")
 - 💻 [My first project - My own website] (https://github.com/Mees100/Mees100version1.github.io)
 
 
