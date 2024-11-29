@@ -3,7 +3,7 @@
  I'm a junior Front-End developer, looking for opprtunities
 
 ## My experience and knowledge🎓:
-- JavaScript, React (inclusief hooks & props, fetch), TypeScript, HTML, CSS, different libraries, bundlers (vite), npm, terminal(git), react router 
+- JavaScript, React, TypeScript, HTML, CSS, different libraries, bundlers (vite)
 - Web Design, responsive design, accesbility
   
 ## My projects:
