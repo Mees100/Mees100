@@ -5,11 +5,12 @@
 ## My experience and knowledge🎓:
 - JavaScript, React, TypeScript, HTML, CSS, Sass, different libraries, bundlers (vite)
 - Web Design, responsive design, accesbility
+- Git (and github)
   
 ## My projects:
 - :three: [My third project - Filter title](https://mees100.github.io/my-project3/)  
 
-  Sass, usage of fetch to get data from a webserver, define types of: the json response body, return, use async code with promise and then, use the filter method, use async code with promise and then, use useEffect with a dependency and common dev tools.
+  Sass, usage of fetch to get data from a webserver, define types of: the json response body, return, use async code with promise and then, use the filter method, use useEffect with a dependency and common dev tools.
  
 - :clock9: <a href="https://github.com/Mees100/clock-app">My second project - Clock App (Time zone converter)</a>
  
