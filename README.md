@@ -28,7 +28,7 @@ HBO master (biology)
 
 ## My experience and knowledge🎓:
 
-- JavaScript, React, TypeScript, HTML, CSS, Sass, different libraries, bundlers (vite), responsive design, Git (and github)
+- JavaScript, React, TypeScript, HTML, CSS (Grid, Flexbox), Sass, different libraries, bundlers (vite), responsive design, Git (and github)
   
 ## My projects:
 
