@@ -16,6 +16,8 @@ HBO master (biology)
   My last certificates are ([see also here](https://www.codecademy.com/profiles/Alina100)):
     - Next.js (Intro to next.js)
     - Sass
+    - Responsive design
+    - Flexbox and Grid
     - Javascript
     - Typescript
     - React: Hooks
