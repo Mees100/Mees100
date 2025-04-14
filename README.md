@@ -14,7 +14,8 @@ MSc. biology
 
 - [A personal blog in next.js: mooi buiten](https://my-next-app-gilt-omega.vercel.app/), in Dutch
   
-
+  Next.js, React-hook-form, Sass, Flex and Grid, responsive design, eslint, prettier
+ 
 - :three: [My third project - Filter title](https://mees100.github.io/my-project3/)  
 
   Sass, usage of fetch to get data from a webserver, define types of: the json response body, return, use async code with promise and then, use the filter method, use useEffect with a dependency and common dev tools.
