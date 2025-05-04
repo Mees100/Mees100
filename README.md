@@ -12,7 +12,7 @@ MSc. biology
 
 ## My experience and knowledge🎓:
 
-- JavaScript, React, Next.js, TypeScript, HTML, CSS (Grid, Flexbox), Sass, different libraries (React-hook-form, Bootstrap, Material), bundlers (vite), responsive design, Git (and github)
+- JavaScript, React (React Hooks), Next.js, TypeScript, HTML, CSS (Grid, Flexbox), Sass, different libraries (React-hook-form, Bootstrap, Material), bundlers (vite), responsive design, Git (and github), Fluent UI
 - Asynchronous JavaScript to make requests to APIs
 
 ## My projects:
