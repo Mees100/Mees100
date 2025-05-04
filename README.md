@@ -10,6 +10,11 @@ Motivated, eager to learn, looking for a nice team to work with on interesting a
 
 MSc. biology
 
+## My experience and knowledge🎓:
+
+- JavaScript, React, Next.js, TypeScript, HTML, CSS (Grid, Flexbox), Sass, different libraries (React-hook-form, Bootstrap, Material), bundlers (vite), responsive design, Git (and github)
+- Asynchronous JavaScript to make requests to APIs
+
 ## My projects:
 
 - [A personal blog in next.js: mooi buiten](https://my-next-app-gilt-omega.vercel.app/), in Dutch
@@ -22,7 +27,7 @@ MSc. biology
  
 - <a href="https://github.com/Mees100/clock-app">My second project - Clock App (Time zone converter)</a>
  
-  Usage of fetch to get data from a webserver, define types of: the json response body, props, return, async code with promise and then, use useEffect with a dependency zone, use conditionals in jsx to show a spinner, share state (props) between components from parent to child, use a design framework (fluentui) to add some styling and commob dev tools.
+  Usage of fetch to get data from a webserver, define types of: the json response body, props, return, async functions, use useEffect with a dependency zone, use conditionals in jsx to show a spinner, share state (props) between components from parent to child, use a design framework (fluentui) to add some styling and commob dev tools.
 
 - <a href="https://github.com/Mees100/Mees100.github.io">My first project - My own website</a> (I still see many points that I want to improve later)
 
@@ -46,13 +51,7 @@ MSc. biology
     - Get started with React
     - Working with data and properties in React components
     - React state and events
-
-## My experience and knowledge🎓:
-
-- JavaScript, React, TypeScript, HTML, CSS (Grid, Flexbox), Sass, different libraries, bundlers (vite), responsive design, Git (and github)
   
-
-
 ## Languages
 
 - Dutch
