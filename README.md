@@ -1,6 +1,6 @@
 # Hi, I'm Alina 👋 Welcome to my GitHub profile!
 
-A passionate and enthusiastic Front-End developer, looking for opprtunities
+A passionate and enthusiastic junior Front-End developer, looking for opprtunities
  
 ## Profile
  
