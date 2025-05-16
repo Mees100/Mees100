@@ -2,9 +2,10 @@
 
 A passionate and enthusiastic junior Front-End developer, looking for opprtunities
  
-## Profile
+## Profile/Soft skills
  
 Motivated, eager to learn, looking for a nice team to work with on interesting and challenging web projects.
+Teamwork, communication, intercultural awareness, critical thinking,stress-free and efficientto manage tight deadlines 
 
 ## Education
 
