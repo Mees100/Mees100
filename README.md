@@ -13,7 +13,8 @@ MSc. biology
 
 ## My experience and knowledge🎓:
 
-- JavaScript, React (React Hooks), Next.js, TypeScript, HTML, CSS (Grid, Flexbox), Sass, different libraries (React-hook-form, Bootstrap, Material), bundlers (vite), responsive design, Git (and github), Fluent UI
+- JavaScript, React (incl.React Hooks), Next.js, TypeScript, HTML, CSS (Grid, Flexbox), Sass, verschillende libraries (React-hook-form, Bootstrap, Material), bundlers (vite), responsive design, Git (and github), Fluent UI, VS Code, Vercel
+- Asynchronous JavaScript en het werken met (REST) APIs en JSON
 - Basic knowledge of web security (OWASP top10)
 
 
