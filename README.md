@@ -42,7 +42,7 @@ MSc. biology
 ## Сourses
 
 - Codecademy – frontend development.
-  My last certificates are ([see also here](https://www.codecademy.com/profiles/Alina100)):
+  My last certificates are:
     - UI and UX Design (in progress)
     - JavaScript: Asynchronouse programming
     - JavaScript: Requests
