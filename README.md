@@ -20,7 +20,7 @@ MSc. biology
 
 ## My projects:
 
-- [Meal-API-Next](meals-api-next.vercel.app)
+- [Meal-API-Next](https://meals-api-next.vercel.app)
   
   Een maaltijden applicatie: Deze applicatie haalt maaltijden op uit een rest API. Om maaltijden aan te bewerken moet er eerste ingelogd worden. Het token wat de REST API bij het inloggen terug stuurt, gebruik ik voor de authenticatie bij    het maken van maaltijden. Gebruikte technieken: fetch met async/await, react, next,
 
