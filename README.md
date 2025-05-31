@@ -24,7 +24,7 @@ MSc. biology
   
   Een maaltijden applicatie: Deze applicatie haalt maaltijden op uit een rest API. Om maaltijden aan te bewerken moet er eerste ingelogd worden. Het token wat de REST API bij het inloggen terug stuurt, gebruik ik voor de authenticatie bij    het maken van maaltijden. Gebruikte technieken: fetch met async/await, react, next,
 
-- <a href="https://github.com/Mees100/clock-app"> Clock App (Time zone converter)</a>
+- [Clock App - Time zone converter](https://mees100.github.io/clock-app/)
  
   Usage of fetch to get data from a webserver, define types of: the json response body, props, return, async functions, use useEffect with a dependency zone, use conditionals in jsx to show a spinner, share state (props) between components from parent to child, use a design framework (fluentui) to add some styling and commob dev tools.
 
